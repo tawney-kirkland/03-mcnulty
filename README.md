@@ -30,6 +30,5 @@ Understanding financial inclusion in East Africa: Predicting bank account holdin
 * Matplotlib
 * Seaborn
 * Scikit learn
-* Beautiful Soup
 
 ## Possible impacts 
