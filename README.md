@@ -16,7 +16,7 @@ Understanding the nature of financial *exclusion* can enable development agencie
 
 ## Methods
 
-* **Exploratory daata analysis** on [FinMark Trust National Surveys] (https://finmark.org.za/national_surveys) data and the [World Bank Global Findex Database] (https://globalfindex.worldbank.org/)
+* **Exploratory data analysis** on [FinMark Trust National Surveys](https://finmark.org.za/national_surveys) data and the [World Bank Global Findex Database](https://globalfindex.worldbank.org/)
 * **Predictive analysis** on FinMark Trust National Surveys data using logistic regression and Naive Bayes
 * **Desktop review** of existing literature on financial inclusion in East Africa
 
@@ -32,14 +32,14 @@ Understanding the nature of financial *exclusion* can enable development agencie
 * Type of job
 
 ### Target
-* Bank account (yes / no)
+* Unbanked (yes / no)
 
 
 ## Findings
 
-I created a Tableau dashboard of some of the findings from the analysis, which you can view [here] (https://public.tableau.com/profile/tawney#!/vizhome/Metisproject3-bankpredictionresults/Resultsdashboard)
+I created a Tableau dashboard of some of the findings from the analysis, available [here](https://public.tableau.com/profile/tawney#!/vizhome/Metisproject3-bankpredictionresults/Resultsdashboard)
 
-<img src="02-ghimages/tableau_shot.png" alt="dashboard" width="500"/>
+<img src="02-ghimages/tableau_shot.png" alt="dashboard" width="800"/>
 
 ## Insights
 
@@ -51,7 +51,7 @@ The results provide important insights on opportunities to advance financial inc
 
 * Individuals with a cell phone are more likely to be banked - banks and fintechs should consider extending financial products through mobile channels
 
-## Tools Used
+## Tools
 * Python
 * Jupyter Notebook
 * Pandas
