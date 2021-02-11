@@ -43,6 +43,8 @@ Understanding the nature of financial *exclusion* can enable development agencie
 
 ## Insights
 
+![alt text] (https://github.com/tawney-kirkland/03-mcnulty/blob/main/02-ghimages/tableau_shot.png)
+
 The results provide important insights on opportunities to advance financial inclusion
 
 * For the unbanked, Informally employed single women have higher odds of being unbanked - development agencies should consider special programmes for this demographic, and participants can be targeted through engagement with departments of social development and women’s economic empowerment
