@@ -16,8 +16,9 @@ Understanding the nature of financial *exclusion* can enable development agencie
 
 ## Methods
 
-* **Exploratory daata analysis** on FinMark Trust National Surveys data and the World Bank Global Findex Database
+* **Exploratory daata analysis** on [FinMark Trust National Surveys] (https://finmark.org.za/national_surveys) data and the [World Bank Global Findex Database] (https://globalfindex.worldbank.org/)
 * **Predictive analysis** on FinMark Trust National Surveys data using logistic regression and Naive Bayes
+* **Desktop review** of existing literature on financial inclusion in East Africa
 
 ### Features
 * Age
@@ -33,17 +34,14 @@ Understanding the nature of financial *exclusion* can enable development agencie
 ### Target
 * Bank account (yes / no)
 
-## Tools Used
-* Pandas
-* Numpy
-* Sklearn
-* Matplotlib
-* Seaborn
-* Tableau
+
+## Findings
+
+I created a Tableau dashboard of some of the findings from the analysis, which you can view [here] (https://public.tableau.com/profile/tawney#!/vizhome/Metisproject3-bankpredictionresults/Resultsdashboard)
+
+<img src="02-ghimages/tableau_shot.png" alt="dashboard" width="500"/>
 
 ## Insights
-
-![Screenshot] (tableau_shot.png)
 
 The results provide important insights on opportunities to advance financial inclusion
 
@@ -52,3 +50,14 @@ The results provide important insights on opportunities to advance financial inc
 * While individuals who have completed primary school have lower odds of being unbanked than those with no formal education, the majority of primary school level individuals are still unbanked and would benefit from financial inclusion outreach
 
 * Individuals with a cell phone are more likely to be banked - banks and fintechs should consider extending financial products through mobile channels
+
+## Tools Used
+* Python
+* Jupyter Notebook
+* Pandas
+* Numpy
+* Logistic regression
+* Naive Bayes
+* Matplotlib
+* Seaborn
+* Tableau
