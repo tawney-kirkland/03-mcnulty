@@ -2,8 +2,8 @@ This challenge uses the W3Schools SQL playground
 
 __Question 1: Which customers are from the UK?__ 
 
-SELECT * 
-FROM Customers 
+SELECT * \
+FROM Customers \
 WHERE Country = 'UK';
 
 __Question 2: What is the name of the customer who has the most orders?__
