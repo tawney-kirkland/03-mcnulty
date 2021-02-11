@@ -43,7 +43,7 @@ Understanding the nature of financial *exclusion* can enable development agencie
 
 ## Insights
 
-![alt text] (https://github.com/tawney-kirkland/03-mcnulty/blob/main/02-ghimages/tableau_shot.png)
+![Screenshot] (tableau_shot.png)
 
 The results provide important insights on opportunities to advance financial inclusion
 
