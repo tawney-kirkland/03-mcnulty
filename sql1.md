@@ -8,16 +8,16 @@ WHERE Country = 'UK';
 
 __Question 2: What is the name of the customer who has the most orders?__
 
-WITH num_orders_cust AS (
-  SELECT Customers.*, Orders.OrderID 
-  FROM Customers 
-  LEFT JOIN Orders 
-  ON Customers.CustomerID = Orders.CustomerID) 
-SELECT CustomerName, CustomerID, count(OrderID) 
-  FROM num_orders_cust 
-  GROUP BY CustomerID 
-  ORDER BY count(OrderID) DESC 
-  LIMIT 10;
+WITH num_orders_cust AS ( \
+  SELECT Customers.*, Orders.OrderID \
+  FROM Customers \
+  LEFT JOIN Orders \
+  ON Customers.CustomerID = Orders.CustomerID) \
+SELECT CustomerName, CustomerID, count(OrderID) \
+  FROM num_orders_cust \
+  GROUP BY CustomerID \
+  ORDER BY count(OrderID) DESC \
+  LIMIT 10;\
 
 __Ernst Handel__ has the most orders
 
